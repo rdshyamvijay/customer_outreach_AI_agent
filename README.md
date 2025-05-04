@@ -17,7 +17,6 @@ The system uses **LLMs** (via Hugging Face or OpenAI), **tools** like Serper for
 ## 🔧 Setup Instructions
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/rdshyamvijay/customer-outreach-agents.git
 cd customer-outreach-agents
 
